@@ -8,7 +8,7 @@
 
 
 - 👀 I’m interested in data engineering and analytics
-- 👨‍💻 Currently looking for a opportunity as a Data Analyst
+- 👨‍💻 Currently looking for an opportunity as a Data Analyst
 - 🌱 I’m currently learning Python, SQL and Big Data Technologies such as AWS and Tableau
 - 💬 Ask me about programming in general, I'm always available to help and learn together!
 - 📫 How to reach me: danieldeoliveira1993@gmail.com
