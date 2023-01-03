@@ -1,6 +1,6 @@
 ## Hello World! 👋 I'm Daniel Souza
 
-# I'm an Information Systems graduate at Baruch College, and a Mentor - Data Analytics @Fullstack Academy.
+# I'm a Data Analytics Mentor @Fullstack Academy and an Information Systems alumni at Baruch College. 
 
 [![Linkedin Badge](https://img.shields.io/badge/-danisouza1993-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sanket-patil-b4134362/)](https://www.linkedin.com/in/danisouza1993/) 
 [![Instagram Badge](https://img.shields.io/badge/-@_souza_93-D7008A?style=flat-square&labelColor=D7008A&logo=Instagram&logoColor=white&link=https://www.instagram.com/_souza_93/)](https://www.instagram.com/_souza_93/) 
